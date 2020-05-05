@@ -1,8 +1,14 @@
 import React from "react"
 import Layout from "../components/layout"
+import ControlledCarousel from "../components/controlledCarousel"
+import soil from "../../public/static/soil.jpg"
+
+
+
 
 export default () => <Layout>
     <h3>Soil and Fertilizer</h3>
+    <ControlledCarousel/>
     <p>Man cannot exist without soil.</p>
 <p>Soil may be defined as a thin layer of earth crust that supports growth of land plants.</p>
 <p>Soil is a living body full of activity rather than just an inert mixture of sand and clay.</p>
@@ -12,3 +18,4 @@ export default () => <Layout>
 <p>Soil properties decide the nature of conversion, conservation of nutrients, and how they are made available to the plants.</p>
 
     </Layout>
+
