@@ -1,9 +1,10 @@
 import React from "react"
 import { css } from "@emotion/core"
 import { Card,Button } from 'react-bootstrap'
+import { Link } from "gatsby"
 
 export default function courseCard(props){
-return (<Card style={{ width: '18rem' }}>
+return (<Card css={css`margin: auto; width: 75% `}>
 <Card.Img variant="top" src={props.img} />
 <Card.Body css={css`
           text-align: center;
@@ -12,7 +13,9 @@ return (<Card style={{ width: '18rem' }}>
   <Card.Text>
 {props.text}
   </Card.Text>
+  <Link to={props.link}>
   <Button variant="primary">Read Now</Button>
+  </Link>
 </Card.Body>
 </Card>)
 }

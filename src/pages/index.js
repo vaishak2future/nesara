@@ -4,6 +4,7 @@ import logo from "../../public/static/survey.jpg"
 import CourseCard from "../components/courseCard"
 import soil from "../../public/static/soil.jpg"
 import water from "../../public/static/water.jpeg"
+import tomato from "../../public/static/tomato.png"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -20,21 +21,23 @@ export default () =>
             </p>
         </div>
 
+            <h3 css={css`text-align: center;`}>Courses</h3>
             <div css={css`
-            text-align: center;
+            margin: auto;
             `}>
-
-            <h3>Courses</h3>
             <CourseCard 
-              title = "Water"
-              text="Medium for nutrition"
-              img = {water}
+              title = "Diseases"
+              text = "Conditions caused by pathogens"
+              img = {tomato}
+              link = "/diseases"
             />
+            </div>
             <br></br>
              <CourseCard 
               title = "Soil"
               text="From whence all life springs from!"
               img = {soil}
+              link = "/soil"
             />
-            </div>
+           
     </Layout>
