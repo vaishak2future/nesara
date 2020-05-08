@@ -1,6 +1,8 @@
 import React from "react"
 import Layout from "../components/layout"
 import vasanth from "../../public/static/vasanth.jpeg"
+import vaishak from "../../public/static/vaishak.png"
+
 export default () => <div>
     <Layout>
         <div>
@@ -46,7 +48,7 @@ export default () => <div>
 
             <img src={vasanth} />
             Vaishak Kumar
-            <img src={vasanth} />
+            <img src={vaishak} />
             Vasanth Kumar
         </div>
     </Layout>
