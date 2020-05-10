@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import ControlledCarousel from "../components/controlledCarousel"
-import soil from "../../public/static/soil.jpg"
+import soil from "../../static/soil.jpg"
 
 
 

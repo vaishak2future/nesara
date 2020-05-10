@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../components/layout"
-import logo from "../../public/static/survey.jpg"
+import logo from "../../static/survey.jpg"
 import CourseCard from "../components/courseCard"
-import soil from "../../public/static/soil.jpg"
-import water from "../../public/static/water.jpeg"
-import tomato from "../../public/static/tomato.png"
+import soil from "../../static/soil.jpg"
+import water from "../../static/water.jpeg"
+import tomato from "../../static/tomato.png"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
 

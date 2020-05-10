@@ -1,6 +1,6 @@
 import { Carousel } from 'react-bootstrap'
 import React from "react"
-import soil from "../../public/static/soil.jpg"
+import soil from "../../static/soil.jpg"
 
 export default function ControlledCarousel({ children }) {
     const [index, setIndex] = React.useState(0);
