@@ -26,10 +26,10 @@ export default () =>
             margin: auto;
             `}>
             <CourseCard 
-              title = "Diseases"
-              text = "Conditions caused by pathogens"
+              title = "Nutrition and Deficiencies"
+              text = "Food for plants!"
               img = {tomato}
-              link = "/diseases"
+              link = "/nutrition"
             />
             </div>
             <br></br>
