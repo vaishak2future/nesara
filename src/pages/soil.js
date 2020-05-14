@@ -159,7 +159,7 @@ export default () => <Layout>
 <p><ul>
 
     <li>Three categories of soil particles - sand, silt and clay are established based on their particle size.</li>
-    <li>Clay particles are the smallest (<0.002 mm), while sand particles are the largest (0.05- 2.00 mm).</li>
+    <li>Clay particles are the smallest ( &lt;0.002 mm), while sand particles are the largest (0.05- 2.00 mm).</li>
     <li>Soil texture depends on the proportion of sand, silt and clay.</li>
     <li>There are 12 classes of soil texture.</li>
     <li>If most particles are large and coarse the soil is called Sand.</li>
