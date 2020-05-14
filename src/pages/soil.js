@@ -62,5 +62,46 @@ export default () => <Layout>
     <li>When manured and irrigated, some laterites are suitable for growing plantation crops like Tea, Coffee, Rubber, Cinchona, Coconut, Arecanut, etc.</li>
 </ul></p>
 
+<p><em>5. Forest-Mountain soils</em></p>
+<p><ul>
+    <li>They are mainly heterogeneous soils found on the hill slopes covered by forests.</li>
+    <li>The formation of these soils is mainly governed by the characteristic deposition of organic matter derived from forests and their character changes with parent rocks, ground-configuration and climate.</li>
+    <li>The forest soils are very rich in humus and are mostly acidic.</li>
+    <li>They are deficient in Potash, Phosphorus and lime.</li>
+    <li>They require good deal of fertilizers for high yields.</li>
+</ul></p>
+
+<p><em>6. Arid-Desert soils</em></p>
+<p><ul>
+    <li>The desert soils consist of sand (90 - 95%) and clay (5 - 10%).</li>
+    <li>They are usually poor in organic matter.</li>
+    <li>Some desert soils are alkaline with varying degree of soluble salts like Calcium carbonate.</li>
+    <li>Calcium content increases downwards with the subsoil having ten times more Calcium.</li>
+    <li>The Phosphate content of these soils is as high as in normal alluvial soils.</li>
+    <li>Nitrogen is originally low but some of it is available in the form of Nitrates.</li>
+    <li>Phosphates and Nitrates make these soils fertile wherever moisture is available.</li>
+    <li>There is a possibility of reclaiming these soils if proper irrigation facilities are available.</li>
+</ul></p>
+
+<p><em>7. Saline-Alkaline soils</em></p>
+<p><ul>
+    <li>They show white incrustation of salts of Calcium, Magnesium and Sodium on the surface.</li>
+    <li>These are poor in drainage and are infertile.</li>
+    <li>In regions with low water table, the salts percolate into sub-soil and in regions with good drainage, the salts are wasted away by flowing water.</li>
+    <li>But in places where the drainage system is poor, the water with high salt concentration becomes stagnant and deposits all the salts in the top soil as it evaporates.</li>
+    <li>In regions with high sub-soil water table, injurious salts are transferred from below by the capillary action as a result of evaporation in dry season.</li>
+</ul></p>
+
+<p><em>8. Peaty and Marshy soils</em></p>
+<p><ul>
+    <li>These types of soils are found in coastal tracts.</li>
+    <li>Accumulation of partly decayed organic matter over several years in the presence of high moisture gives rise to peaty and marshy soils.</li>
+    <li>These are black in colour, heavy and highly acidic.</li>
+    <li>When properly drained and fertilized, these soils produce good crops of rice.</li>
+</ul></p>
+
+
+
     </Layout>
+
 
