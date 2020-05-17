@@ -12,7 +12,6 @@ export default () =>
 
     <Layout>
         <div>
-            <img src={logo} alt="Logo" />
             <h3 css={css`
             text-align: center;
             `}>Bringing Information to the Frontlines</h3>
