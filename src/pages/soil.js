@@ -185,10 +185,439 @@ export default () => <Layout>
 <p>Water held by soil that is available for crop production i.e. FC - WP. e.g.. 6% in sandy soils, 18 % in loamy soils and 16% in clay soils.</p>
 
 <p><em>Soil pH</em></p>
+<p>
+    Soil pH is a very important character that indicates whether the soil is acidic, alkaline or neutral. It is the negative logarithm of the hydrogen ion (H+) 
+    activity and is measured on a 0-14 unit less scale. Soil pH influences the availability, retention and release of nutrients. The ideal pH for one nutrient need not be 
+    ideal for another, making it impossible to attain maximum availability of all nutrients at a given pH. Most acceptable range of pH is between 5.5 and 7.5.
+    Nitrogen, Potassium and Sulphur are relatively less affected by pH. Phosphorus is directly affected. H2PO4 reacts with Calcium and Magnesium ion in alkaline 
+    soils and with Aluminium and Iron in acidic soils to form less soluble compounds. Most micronutrients, except Molybdenum, are less available at pH above 7.5.
+    The low availability of a nutrient should be compensated by increasing its supply through manures and fertilizers.
+    Liming of acid soils and treating alkali soils with Gypsum/ Pyrites is recommended to attain desirable pH range.
+    Continuous use of acid forming fertilizers can cause deficiency of Calcium and Magnesium and also toxicity of Iron and Manganese.
+</p>
+
+<p><em>Soil Electrical Conductivity (EC)</em></p>
+
+<p>
+Electrical conductivity (EC) is the ability of an aqueous solution to carry an electric current. 
+It is the most common measure of soil salinity. Soil electrical conductivity (EC) correlates with soil properties including texture, 
+cation exchange capacity, drainage, organic matter level, salinity, and subsoil characteristics. 
+Plants are detrimentally affected by excess salts in some soils and by high levels of exchangeable Sodium in others.
+The electrical conductivity of soils varies depending on the amount of moisture held by soil particles.
+Sands have a low conductivity, silts have a medium conductivity, and clays have a high conductivity. Na+.
+Electrical Conductivity (EC) is commonly expressed in units of decisiemens/m.
+</p>
+
+<p><em>Cation Exchange Capacity (CEC)</em></p>
+
+<p>Cation exchange capacity (CEC) is the total of its negatively charged (mineral and organic) sites, which are able to hold cations.
+    CEC is measured as meq/100 g (milli equivalents per 100 gm soil).
+    Soils rich in clay and organic matter exhibit maximum CEC.
+    Moderate to high CEC soils are desired since they hold more cations and minimize leaching.
+    The cation exchange is governed by the charge, reactivity and concentration. e.g. Al+++ > Ca++ > Mg++ > K+
+    = NH4+ > H+ > Na+. CEC increases with increase in soil pH.
+</p>
+
+<p><em>Anion Exchange Capacity (AEC)</em></p>
+<p>It is the opposite of CEC, consisting of positively charged sites that can hold and release anions.
+    Clays, organic matter and hydroxides provide for AEC. AEC is much smaller and less important
+    compared to CEC. There is a fair degree of order in which anions are held on to +ve sites, 
+    e.g. H2PO4- > SO4 - > NO3- > Cl-. While Phosphate is held most tightly, Nitrates and Chlorides are held weakly.
+</p>
+
+<p><strong>SOIL FERTILITY, PRODUCTIVITY AND HEALTH</strong></p>
+<p><em>Soil Fertility and Productivity</em></p>
+<p>Soil fertility and productivity is the ability of soil to sustain agricultural plant growth. 
+    It is the ability to supply essential plant nutrients and water in adequate amounts 
+    and proportions for plant growth and reproduction. Conventionally, soil fertility is referred to as
+    soil health. So, a Soil Health Card (SHC) contains information on the nutrient contents of the
+    soil, pH, EC and Organic Carbon, and does not reflect the actual health of the soil.
+</p>
+
+<p><em>Soil health</em></p>
+<p>
+    Soil health is not soil fertility alone. All cultivable soils harbor both useful and
+    harmful organisms. When soil-borne fungi, bacteria, nematodes, protozoa, are present, individually 
+    or in combination, above the threshold level, it is called ‘Sick Soil’. Hence, all fertile and productive soils need
+    not necessarily be ‘healthy soils’. All healthy soils need not be fertile and productive either.
+    Several soil-borne pathogens like Fusarium, Rhizoctonia, Verticillium, Phytophthora, Pythium, Meloidogyne, Heterodera, etc.,
+    thrive well in certain soils and cause severe crop diseases. Such soils are called Conducive soils.
+    Whereas, the same pathogens develop much less and cause milder disease in certain other soils called the Suppressive soils.
+    In most cases the primary reason for a soil being suppressive is the presence of one or several microorganisms antagonistic to the pathogens.
+</p>
+
+<p><em>Management practices to improve soil fertility, productivity and health</em></p>
+<p>1. Reduce Tillage</p>
+<p>Excessive tillage increases oxygen in the
+soil, stimulates microbial activity, and results
+in the decomposition of organic matter. Tillage also disrupts soil aggregates,
+exposing particles of organic matter that
+were otherwise protected from microbial
+consumption. If additions of organic matter are not
+sufficient to counteract the losses from
+decomposition, organic matter levels will
+decline over time, reducing soil health. Inversion tillage also reduces the soil
+coverage provided by crop residues, leaving
+soil more exposed to erosion. Tillage can also disrupt the hyphal network
+of Mycorrhizal fungi, which can lead to their
+decline over time.</p>
+
+<p>2. Reduce Soil Compaction</p>
+<p>Soil compaction occurs when soil is exposed to excessive human and equipment traffic 
+    while the soil is wet and plastic. Compaction results in reduction of pore 
+    space and increased bulk density, leading to poor water infiltration and drainage and
+    increased runoff. Soil compaction increases soil hardness,
+    making it more difficult for plant roots to grow through the soil. 
+    Compaction and removal of surface residue may contribute to reduction in soil moisture 
+    and living space for soil-dwelling organisms.
+</p>
+
+<p>3. Increase organic matter inputs</p>
+<p>
+The inputs of organic matter must meet or exceed the losses of organic matter due to decomposition.
+Healthy crops can be a valuable source of organic matter, and crop residues should be returned to the soil to the extent possible.
+Incorporation of cover crops or perennial crops and judicious additions of green manure, green leaf manure and compost
+can also be used to increase or maintain soil organic matter.
+</p>
+
+<p>4. Use cover crops</p>
+<p>
+    Cover crops keep the soil covered during
+    periods of time when crops have not formed
+    a good canopy, reducing the risk of erosion.
+The biomass produced by cover crops is
+usually returned to the soil, enhancing
+organic matter levels.
+Cover crops with taproots can create
+macropores and alleviate compaction.
+Species of cover crops that host mycorrhizal
+fungi can sustain and increase the population
+of these beneficial fungi.
+Legume cover crops can add Nitrogen to the
+soil through Nitrogen fixation.
+Cover crops can retain nitrate and other
+nutrients that are susceptible to leaching
+losses.
+</p>
+
+<p>5. Reduce pesticide use and provide habitat for beneficial organisms</p>
+<p>
+    Beneficial insects that contribute to biological control or pest organisms can be harmed 
+    by the application of broad-spectrum insecticides. Avoid indiscriminate use of pesticides that
+    also kill non-target and beneficial insects. 
+</p>
+
+<p>6. Rotate Crops</p>
+<p>Diverse crop rotations will help break up soil-borne pest and pathogen life cycles, improving crop health. •	 Rotations can also assist in managing weeds.
+    Rotating crops can also help reduce nutrient excesses.
+</p>
+
+<p>7. Manage Nutrients</p>
+<p>Minimise nutrient excess by carefully
+planning the timing, application method,
+and quantity of manure, compost, and other
+fertilizers. Over-fertilizing can increase pest problems.
+Increasing soluble Nitrogen levels in plants
+can decrease their resistance to pests,
+resulting in higher pest density and crop
+damage. Maintain soil pH appropriate for the crop
+to improve nutrient availability and reduce
+toxicity. Maintain adequate Calcium levels to
+help earthworms thrive and improve soil
+aggregation. Use diverse nutrient sources, which help in
+maintaining soil fertility. Manure and compost add organic matter as
+well as an array of nutrients. But using just
+compost or manure to meet the Nitrogen
+needs of the crop every year can result in
+excessive Phosphorus levels in the soil. Combine modest manure or compost
+additions to meet Phosphorus needs with
+additional Nitrogen inputs from legume cover
+or forage crops in a crop rotation to balance
+both Nitrogen and Phosphorus inputs.
+</p>
+
+<p>8. Add beneficial organisms</p>
+<p>Add bio-control agents like Trichoderma viride, Trichoderma harzianum,
+Pseudomonas fluorescens, Bacillus subtilis, Fusarium proliferatum (against fungi), 
+Bacillus firmus, Paecilomyces lilacinus 
+(against nematodes), for control of soilborne pathogens. 
+Add bio-fertilizers like Nitrogen fixing bacteria, Phosphorus solubilizing bacteria,
+Potassium mobilizing bacteria, Ferrous mobilizing bacteria, Zinc mobilizing bacteria, 
+Sulphur mobilizing bacteria, Manganese 
+solubilizing microbe, Vesicular Arbuscular Mycorrhizae (VAM), etc. 
+Jeevamrutha may also be added periodically to maintain the beneficial micro-organisms
+in the soil. Jeevamrutha, provides a congenial environment to soil microorganisms that
+play an important role in making available essential nutrients for plant growth viz.,
+Nitrogen, Phosphorus and Potassium to the plants. It encourages microbial activity in the soil
+and improves soil health considerably.
+</p>
+
+<p><em>Green manuring & Green leaf manuring</em></p>
+
+<p>
+    Green manuring is an efficient way of increasing organic matter in the soil. 
+    It is the practice of growing plants usually belonging to leguminous family
+    and incorporating them into the soil after sufficient growth. An ideal green manure crop should be
+    inexpensive to plant, easily to establish, produce succulent tops and roots rapidly, 
+    generate good ground cover quickly and capable of growing on poor soils.
+    These crops should be tilled in to the ground at flowering stage. The most important green manure
+    crops are Sunnhemp (Crotalaria juncea), Dhaincha (Sesbania aculeate), Clusterbeans (Cyamopsis tetragonoloba), Pillipesara (Phaseolus trilobus) and
+    Sesbania rostrata (stem nodulating). Soil organic matter can also be increased by incorporating green leaves and twigs
+    collected from trees, shrubs and herbs grown elsewhere. This is called green leaf manuring. Some important species suitable for the
+    purpose are Neem (Azadirachta indica), Mahua (Madhuca longifolia), Gliricidia (Gliricidia sepium), Karanji (Pongamia glabra), Calotropis (Calotropis gigantea), Avise (Sesbania grandiflora), Subabul
+    (Leucaena leucocephala). In addition to enhancing soil fertility, green manuring and green leaf manuring also improves soil structure, increases 
+    water holding capacity and reduces soil erosion. Growing green manure crops reduces weed proliferation and helps in reclamation of alkaline soils.
+</p>
+
+<p><em>Jeevamrutha</em></p>
+<p>Method of preparation: (for 1 acre)</p>
+<p>Water - 200 - 250 ltr.</p>
+<p>Cow dung - 10 - 15 kg.</p>
+<p>Cow urine - 3 - 4 ltr.</p>
+<p>Jaggery - 1 - 2 kg.</p>
+<p>Flour of pulses - 2 kg.</p>
+<p>Soil - 2 - 3 handfuls</p>
+<p>(Collect soil from the same field from under a tree or un-disturbed
+location).</p>
 <p><ul>
-    <li>Soil pH is a very important character that indicates whether the soil is acidic, alkaline or neutral.</li>
-    <li>It is the negative logarithm of the hydrogen ion (H+) activity and is measured on a 0-14 unit less scale.</li>
-</ul></p>
+    <li>Mix above mentioned ingredients and keep under shade for 3-4 days.</li>    
+    <li>Stir the mixture once a day.</li>
+    <li>Apply Jeevamrutha to plants when the soil is wet.</li>
+    <li>Though it can be used even after 6-7 days, it is difficult because of its overpowering stench, hence it is advised to use Jeevamrutha within 3-4 days of preparation.</li>
+</ul></p> 
+
+<p><strong>PROBLEM SOILS</strong></p>
+
+<p>Soils that cannot be economically used for crop production without adopting reclamation measures are called Problem Soils.</p>
+
+<p><em>Acid soils</em></p>
+<p>Acid soils have a pH of less than 6.5 and
+respond to liming. They are common in humid regions.
+Leaching of certain nutrients like Ca, Mg.
+etc., enhances development of soil acidity.
+Soils developed from acidic rocks like granite
+containing Silica are naturally acidic.
+Decomposition of organic matter in soil
+increases acidity due to production of a large
+number of organic and inorganic acids.
+Application of fertilizers like Ammonium
+Sulphate, Urea, Ammonium Nitrate also
+contribute to acidity.
+Increased concentrations of Aluminium,
+Manganese and Iron in acid soils adversely
+affect plant growth and yield.
+Plants suffer from Calcium, Magnesium and
+Potassium deficiency in acid soils.
+Rock Phosphate is an economical and better
+suited source of Phosphorus in acid soils.
+Muriate of Potash (MOP), which also tends
+to increase the pH is a better source of
+Potassium than Potassium Sulphate.
+A large number of beneficial microorganisms
+become inactive in acid soils thus slowing
+down mineralization and nitrification.
+It has toxic effect on root tissues and
+adversely affects the permeability. It affects the availability of Copper and Zinc
+and Phosphorus also gets immobilized. Plant diseases are more prevalent in acidic
+soils.
+</p>
+
+<p>Reclamation of acid soils:</p>
+<p>
+Acid soils can be reclaimed by adding metals
+like Calcium and Magnesium, a process called liming.
+The most common liming materials used are Lime stone [CaCO3], Quick lime [CaO]
+and Slaked lime [Ca(OH)2], Dolomite [CaMg(CO3)2].Quantity of liming material depends on the
+soil texture, with light soils requiring less than the heavy soils.
+Requirement of liming material also depends on the pH and it may range from about 2
+MT/acre for soils of pH 5.5 to as high as 4.8 MT/acre for soils of pH 3.5. 
+Lime should be applied based on soil test reports because excessive liming leads to Fe,
+Mn, Cu, Zn deficiency, decreased phosphate availability and Boron uptake. Lime should be applied at least one month
+before cropping and mixed with soil by ploughing. Apply lime in small quantities every year or
+once in two years. If the quantity is not more than 2 MT/acre, it can be applied in one dose.
+</p>
+
+<p><em>Dolomite</em></p>
+<p>
+    The most common liming materials used are Lime stone [CaCO3], Quick lime [CaO] and Slaked lime [Ca(OH)2]
+    and Dolomite [CaMg(CO3)2]. Dolomite is Calcium Magnesium bicarbonate [(CaMg(CO3)2]. When Magnesium is to be provided to a crop along with correcting the soil acidity, Dolomite is the right choice.
+    Unlike Gypsum, which is added routinely in irrigated soils, Dolomite is to be used for correcting soil acidity.
+    At higher soil pH values, the carbonate in limestone and dolomite will actually burn the crops, and even cause
+    plant death in severe cases.
+</p>
+
+<p><strong>
+    NOTE: Lime should never be applied with nitrogenous fertilizers and water soluble phosphatic fertilizers 
+    since it leads to loss of nitrogen in the form of Ammonia and decreases availability of Phosphorus.
+</strong></p>
+
+<p><em>Saline Soils</em></p>
+
+<p>Saline soils contain high percentages of
+chloride and sulphate of Calcium and
+Magnesium.
+The pH of the soils is less than 8.5 and
+Electric Conductivity is >4 decisiemens/m.
+The exchangeable Sodium is less than 15%
+of Base Exchange capacity of soils.
+The osmotic pressure due to high
+concentrations of soluble salts decreases
+water availability to plants, through exosmosis, resulting in stunted growth and
+retarded growth of leaves and stems.
+In extreme cases it leads to plasmolysis.
+Seed germination is also reduced.
+High concentrations of Sodium and Sulphate
+reduce absorption of Calcium leading to Ca
+deficiency.
+Saline soils are formed when salts that
+result from weathering are not fully leached
+especially in arid and semi-arid areas; due to
+upward movement of salts from lower depths
+during seasonal irrigation; due to irrigating
+with saline water or ingress of sea water.
+</p>
+
+<p><em>Reclamation of Saline soils:</em></p>
+
+<p>There are three ways of reclamation of saline
+soils – Eradication, Conversions and
+Control. Eradication involves repeated heavy
+flooding and draining of the soils to effectively
+leach out the soluble salts.
+The field should be made into smaller plots to
+hold irrigation water and flooded with good
+quality water up to 15-20 cm and puddled.
+The water is then removed through drainage
+channels. The process should be repeated
+5-6 times. Leaching should be done before application
+of Gypsum. Scraping of surface salts also can be done
+as a method of eradication, but is not very
+efficient and is costly. Conversion involves using Gypsum to
+displace Sodium with Calcium from the
+exchangeable complex. Gypsum should be applied in powder form uniformly in the field and mixed by light
+ploughing of the upper 6 - 8 cm soil. Control method involves retardation of
+evaporation by mulching, deep chiseling of
+soil to open the impervious layer to improve
+water percolation and addition of organic
+matter.</p>
+
+<p><em>Alkali Soils</em></p>
+
+<p>Alakali soils are low in permeability of water
+and air, sticky when wet, hard on drying,
+and thus not congenial for plant growth.
+High percentage of Sodium decreases
+absorption of Calcium and Magnesium by
+the roots.
+Solubility of Zinc and Iron is affected.
+It may even cause lime induced Iron chlorosis.
+Plants show restricted root system and
+delayed flowering.
+Leaf burn is common due to excess of
+chloride and sodium.
+Alkali soils are of two kinds. Saline-alkali
+soils and Non-saline alkali soils.</p>
+<p>Saline-alkali soils:</p>
+<p>These soils are both saline and alkaline
+and contain appreciable quantities of
+neutral soluble salts.
+While pH remains &lt8.5 and EC >4
+decisiemens/m as in saline soils, unlike
+in saline soils the exchangeable Sodium
+is more than 15% of base exchange
+capacity of soils.</p>
+
+<p>Non-saline alkali soils (Black alkali soils):</p>
+
+<p>These soils do not contain large quantities of neutral soluble salts, but 
+    exchangeable Sodium is more than 15% of base exchange capacity of soils. Soil pH is >8.5 and EC &lt4 decisiemens/m.
+    High Sodium content results in dispersal of clay and organic matter leading to close packing of soil particles and
+    reduces pore space and aeration. Soil develops shallow cracks and surface soil becomes hard and compact. Water does not percolate quickly and remains muddy for a long time.
+    Application of alkaline fertilizers like Sodium Nitrate, basic slag etc., also contribute to alkalinity.
+</p>
+
+<p>Reclamation of Alkali soils:</p>
+<p>Eradication: Leaching with excessive
+flooding and draining is done as in
+reclamation of saline soils after conversion
+of exchangeable Sodium into water soluble
+form.</p>
+
+<p>Conversion:</p>
+<p>Gypsum</p>
+<p>	 Large quantities of Gypsum are applied
+to replace Sodium and leach it downward
+and out of reach of plant roots. Gypsum reacts with Sodium Carbonate
+and adsorbed Sodium to produce Sodium
+Sulphate, which dissolves in water and is
+leached away. Dosage of Gypsum ranges from 800 kg/
+acre in soils of pH 7.4 to 7.8 to as high
+as 5.7 MT/acre for soils of pH above 9.0. Gypsum can be applied in one dose if the
+requirement is below 3 MT/acre; in two
+doses if it is between 3 and 5 MT and
+three doses if it exceeds 5 MT. </p>
+
+<p>Sulphur:</p>
+<p>In extreme cases ground Sulphur is
+incorporated into the soil several weeks
+before planting of the crop.
+In case of soils of pH 8.0, up to 2.50 MT
+Sulphur and 5-7.5 MT of organic matter
+per acre, is required to reduce the pH to
+about 6.5.</p>
+<p>Sulphuric acid:</p>
+<p>Sulphuric acid may directly be used when
+alkalinity is very high.
+However, the method is expensive and
+hazardous.</p>
+<p>Lime or Lime sulphur: </p>
+<p>Calcium Carbonate replacing Na+ in soil
+colloid with Ca2+.</p>
+
+<p>Ferrous Sulphate and soluble salts of
+Aluminium: </p>
+<p>These bring down alkalinity by formation
+of Sulphuric acid resulting in production
+of leachable Calcium Sulphate.</p>
+<p>Mollases:</p>
+<p>Mollases (2 MT/acre) and press mud (1
+MT/acre) are also effective in reclamation
+of alkali soils through production of
+organic acid.</p>
+<p>Organic manures: </p>
+<p>Organic manures bring down the pH
+through production of carbonic acid in
+the soil, which solubilizes Calcium salts. Microbial activity in organic manure
+also stimulates oxidation of Sulphur to
+Sulphate form.</p>
+
+<p>Mulching:</p>
+<p>Mulching improves physical and microbial
+properties, prevents crust formation,
+disrupts capillary continuity, reduces
+water loss through evaporation and
+prevents accumulation of salts on soil
+surface.</p>
+
+<p>Fertilizer management in Saline and
+Alkali soils</p>
+<p>Fertilizers of acidic nature are advised for
+alkali soils and Ammoniacal fertlizers are
+useful in saline soils.
+Due to decreased availability and leaching
+of chemical fertilizers, generally 50% higher
+dose of Nitrogen and Phosphorus are
+recommended.
+Application of Zinc Sulphate and Gypsum is
+very essential in alkaline soils.
+Organic manures have been observed to
+be better than inorganic fertilizers in both
+saline and alkali soils.
+Dhaincha (Sesbania aculata) is an important
+source of green manure in reclamation of
+alkali soils.
+Green manuring with Dhaincha along with
+Gypsum is effective in restoring physical
+condition and enriching the soil in nitrogen
+and organic matter.</p>
     </Layout>
-
-
