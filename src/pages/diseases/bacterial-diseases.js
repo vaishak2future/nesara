@@ -191,4 +191,213 @@ appearance of the leaf hoppers to control
 their population.
 •	 Power Plus has proved to control this
 disease also.</p>
+
+<h4> BLACK ROT OF CRUCIFERS</h4>
+<p>It is caused by Xanthomonas campestris pv.
+campestris.
+•	 Characteristic black rot symptoms appear
+along the margins of leaves as yellow,
+V-shaped lesions pointed towards a vein.
+•	 The lesions enlarge and tissue wilting
+progresses towards the base of leaves.
+•	 Eventually, affected areas become necrotic
+and the veins turn black or brown. </p>
+<p>The infection moves down the vascular
+tissue of petioles, spreads through stems and
+finally into the roots.
+•	 The vascular bundles in the infected plant
+parts become black followed by black rotting
+of the internal tissues in the lower part of the
+stem.
+•	 Cabbage heads and Cauliflower curds are
+also invaded and discolored.</p>
+
+<h4>BACTERIAL CANKERS </h4>
+<p>Canker symptoms can appear on barks,
+stems, small twigs and fruits.
+•	 The lesions first appear as small watery
+translucent spots, which enlarge, turn darkgreen or orange brown with age.
+•	 The host tissues around the affected area rise
+to form convex spots.
+•	 The central regions of the spots gradually
+turn light-brown, spongy and breakdown giving crater-like appearance.
+•	 With age, the spots become corky and brown,
+sometimes pinkish, and appear cankerous.
+•	 Xanthomonas axonopodis subspecies citri
+causes Citrus canker.
+•	 Clavibacter michiganensis subspecies
+michiganensis causes bacterial canker in
+Tomato.</p>
+
+<h4>BACTERIAL GALLS</h4>
+<p>Bacterial galls, also known as Crown galls
+are produced mostly by Agrobacterium
+spp. and also by certain species of
+Arthrobacter, Pseudomonas, Rhizobacter
+and Rhodococcus.
+•	 Agrobacterium tumefaciens (new name -
+Rhizobium radiobacter), A. rubi and A. vitis
+are responsible for galls in majority of the
+plants.
+•	 These are soil bacteria, which enter the host
+through wounds and cause hyperplasia and hypertrophy in plant tissue by rapid and
+continuous cell division.
+•	 Crown gall first appears as small, whitish,
+soft round overgrowth typically on the plants
+crown or the main root.
+•	 The color of galls (tumors) caused by A.
+tumefaciens can be orange-brown and as
+it enlarges the surface becomes convoluted
+and dark brown.
+•	 Gall damage can be benign to fatal.</p>
+
+<h4>BLACK ARM OF COTTON</h4>
+<p>Black arm disease is caused by Xanthomonas
+campestris pv. malvacearum.
+•	 This is a seed-borne and highly seed
+transmitted disease.
+•	 In seedlings, the common symptoms are
+water-soaked, circular or irregular lesions
+on cotyledons, which spread to petiole and
+stem.
+•	 Finally withering and death of seedling
+results known as seedling blight.
+•	 Small, dark green, water-soaked areas develop on lower surface of leaves, enlarge gradually
+and become angular when restricted by veins
+and veinlets and spots become visible on
+both the surfaces of leaves.
+•	 The infected veins and veinlets show
+blackening, leaves become crinkled and
+twisted and bacterial oozing is also seen
+(vein necrosis or vein blighting).
+•	 Black lesions on stem and branches,
+premature dropping off of the leaves result in
+die back known as Black arm.
+•	 It also affects the bolls causing boll rot.</p>
+
+<h4>BACTERIAL SCABS </h4>
+<p>Bacterial scabs primarily infect below ground
+parts of plants as in Potatoes.
+•	 Common scab of Potato is caused by
+Streptomyces scabies, which cause localized
+scabby lesions on the outer surface of the
+tuber.
+•	 Typically corky tissue will form below and
+around the lesion.
+•	 Rot pathogens can gain entrance into the
+host tissue through these lesions and cause
+further damage.</p>
+
+<h4>Epidemiology of Bacterial Diseases</h4>
+<p>Bacterial diseases are favored by warm
+temperatures (25 - 300
+C), high humidity and
+rain.
+•	 The bacteria spread by splashing or
+windblown rain, severe winds, plant to plant
+contact, farming tools and due to handling
+during transplanting.
+•	 Bacterial wilts are favored by neutral pH,
+moderate to high soil temperature and soil
+type, which influence soil moisture and
+microbial populations.
+•	 High temperatures (30 - 350
+C) and high soil
+moisture are the main factors associated
+with incidence and severity of wilts.
+•	 Irrigation water and contaminated farming
+equipment favor the spread of the disease
+from infected field to healthy field.
+•	 The bacteria enter the plants through
+wounds caused during emergence of lateral
+roots and transplanting or through wounds
+caused by nematodes, insects and farm
+equipment.</p>
+
+<h4>Management of Bacterial Diseases</h4>
+<p>Relatively less work has been done on
+the management of bacterial diseases as
+compared to fungal diseases.
+•	 Very few chemical formulations are available
+for their management.</p>
+<h5>Cultural Practices </h5>
+<p>Grow resistant varieties/hybrids, if available.
+•	 Use disease free seedlings.
+•	 Rotate crop with non-hosts to reduce
+inoculum.
+•	 Disinfect farm equipment/tools by washing
+with formaldehyde to avoid spread of
+inoculum from one field to another.
+•	 Adopt furrow or drip irrigation and never use
+overhead irrigation like sprinklers.</p>
+<p>Never allow water to flow from infected area
+to non-infected area.
+•	 In case of black arm disease of Cotton:
+o	 Remove and destroy the infected plant
+debris.
+o	 Rogue out the volunteer Cotton plants
+and weed hosts.
+•	 In case of black rot of Cole crops, remove the
+crop residues from the field after harvesting
+the heads.
+•	 Never plough back the residues into the field
+to avoid the build up of inoculum.
+•	 Crop residues may be composted and then
+applied to the field.</p>
+
+<h4>Seed treatment </h4>
+<p>Wherever the bacterium is seed-borne, e.g.,
+Bacterial Spot of Tomato, seed treatment is
+recommended.
+•	 Treat the seeds with 1% hydrochloric acid for
+15 - 20 minutes.
+•	 Treatment is to be done immediately after
+routine fermentation in Tomato.
+•	 Produce seeds only in dry seasons to reduce
+spread of bacteria through rain splash.</p>
+<p>In case of black arm disease of Cotton,
+delint the Cotton seeds with concentrated
+Sulphuric acid at 100 ml/kg of seed.
+•	 Treat the acid delinted seeds with Carboxin
+or Oxycarboxin at 2 gm/kg or soak the
+seeds in 1000 ppm Streptomycin Sulphate
+overnight.</p>
+
+<h4>Foliar spray</h4>
+<p>Copper fungicides are also anti-bacterial in
+action.
+•	 Spray a combination of a Copper fungicide
+like
+o Copper Oxychloride 50% WP (Blitox) @
+3 gm/ltr. or
+o Copper Hydroxide 77% WP (Kocide) @
+2 gm/ltr.
+•	 Add an antibiotic / bactericide like
+Streptocycline or T-Cycline or
+Bacterinashak @ 0.25 gm/ltr. to the
+fungicide.
+•	 Spray at least twice at an interval of 7 to 8
+days.
+•	 Add Phyton-T @ 5 ml/ltr along with the
+above mentioned combination for faster
+recovery from the damage.</p>
+
+<h4>Soil drenching (for wilts)</h4>
+<p>Dip the roots of seedlings in 100 ppm (100
+mg/ltr.) solution of Streptocycline/Tcycline/K-cycline/Bactrinashak for 10-15
+minutes before transplanting.
+•	 Drench the soil around affected and
+surrounding plants with solution containing
+o Copper Oxychloride 50% WP (Blitox) @
+3 gm/ltr. or
+o Copper Hydroxide 77% WP (Kocide) @
+3 gm/ltr.
+in combination with Streptocycline/
+T-cycline/K-cycline/ Bactrinashak @ 0.3
+to 0.5 gm/ltr., at the rate of 200 - 300 ml/
+plant.
+Repeat drenching after 20-25 days.
+•	 Add Phyton-T @ 5 ml/ltr. along with the
+above mentioned combination for faster
+recovery</p>
 </Layout>
