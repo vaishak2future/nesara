@@ -620,4 +620,173 @@ Green manuring with Dhaincha along with
 Gypsum is effective in restoring physical
 condition and enriching the soil in nitrogen
 and organic matter.</p>
+
+<p>Gypsum - The versatile soil amendment</p>
+<p>Gypsum is the most versatile soil amendment that has many uses especially in irrigated soils. 
+    Gypsum being Calcium Sulphate (CaSO4.2H2O) is a key ingredient for maintenance of irrigated
+    soils that would gradually turn saline or alkaline.
+    Calcium in Gypsum replaces Sodium in sodic soils and helps in leaching it as Sodium Sulphate.
+    In addition to preventing and correcting sodicity, Gypsum affords stability of soil organic
+    matter, stable soil aggregates, improved water penetration and helps rapid seed emergence.
+    It helps in breaking up compact soil, especially in combination with organic amendments.
+    Gypsum rapidly decreases the pH of sodic soils.
+    Gypsum improves the ability of soil to drain and not become waterlogged due to a combination
+    of high sodium, swelling clay, and excess water.
+    Gypsum provides Calcium, which is a major mechanism that binds soil organic matter to clay
+    giving stability to soil aggregates.
+    In combination with lime, it decreases leaching losses of Potassium and Magnesium.
+    Gypsum increases water-use efficiency by improving water infiltration rates, hydraulic
+    conductivity and better water storage in the soil leading to deeper rooting and better wateruse efficiency.
+    It provides Calcium that is essential for the biochemical mechanisms by which most plants nutrients are absorbed by roots.
+    Calcium in Gypsum regulates the balance of micronutrients, such as Iron, Zinc, Manganese
+    and Copper, in plants. Calcium prevents excess uptake of many of them; and once they are in the plant, Calcium
+    keeps them from having adverse effects when their levels get high.
+    Application of Gypsum is essential for good fruit quality, especially in very high pH soils where adequate Calcium is not available.
+    Gypsum helps prevent blossom-end rot of Watermelon and Tomatoes and bitter pit in Apples.
+    Gypsum is preferred over lime for management of scab in Potatoes grown in acid soils.
+    Root rot of Avocado trees caused by Phytophthora is partially corrected by Gypsum and organics.
+    Gypsum decreases volatilization loss of Ammonium Nitrogen from applications of Ammonia, Ammonium Nitrate, Urea, Ammonium
+    Sulfate, or any of the Ammonium Phosphates.</p>
+
+<p><strong>SOIL TESTING</strong></p>
+<p>Soil looses a considerable amount of its
+nutrients due to uptake by plants, through
+leaching and erosion. Continued maintenance of a high level of
+soil fertility is indispensable for sustained agricultural production. From time to time the inherent fertility of
+soil has to be evaluated. Soil test information along with knowledge
+of specific crop requirements, cropping history and physical characteristics of the
+soil help in determining the exact amounts of different nutrients and soil amendments,
+if any, needed for a certain crop or cropping sequence. </p>
+
+<p><em>Soil Sampling</em></p>
+<p>Soil sample should be properly collected and be representative of the area to be tested.
+    Avoid drawing samples from old bunds, marshy spots, hedges, areas previously occupied by compost heaps, etc.
+    Do not sample in a field within three months
+    of the application of lime, ash or fertilizer. 
+    Where crops have been planted collect samples between plants and lines.
+    To get representative samples, collect soil from at least 10 to 15 places randomly
+    spread over the field. Scrape away the surface of the randomly
+    selected points to remove weeds and litter. Dig pits of 6” x 6” or a ‘V’ shaped pit of 1
+    ft. deep or collect samples of 0- 6”and 6-12” by scraping the sides of the pit.
+    Make a composite sample by mixing samples from all pits thoroughly after breaking all lumps.
+    Carry out successive quartering along with
+    thorough mixing each time to prepare a final sample weighing about 500 gm. Dry samples in shade and pack them in
+    clean cloth bags.
+    Label each sample to provide the following information to help the chemist to 
+    schedule accurate fertilizer / amendment recommendations.
+    Farmer’s name and address. Cropping history. Crop intended to be grown.
+    Details of standing crop, if any. Date of last ploughing.
+    Quantity of lime, Gypsum and fertilizers applied and date of last application.
+    Whether green manuring is practiced, if so when.</p>
+
+<p><em>Soil Analysis</em></p>
+<p>Soil samples are analyzed for the following
+five soil properties.</p>
+<ol>
+    <li>Soil pH, which indicates whether the
+soil is acidic, alkaline or normal.</li>
+    <li>Total soluble salts, which indicates
+whether the soil is saline or normal.</li>
+    <li>Organic carbon, as measure of available
+nitrogen.</li>
+    <li>Available Phosphorus.</li>
+    <li>Available Potash.</li>
+</ol>
+<p>Wherever facilities exist samples are also
+analyzed for micro nutrients, especially for Zinc,
+Iron, Boran, Manganese and Copper.</p>
+
+<p><em>Soil test result interpretation</em></p>
+<p>Soil test report usually has three main parts
+apart from the farmer and soil sample details.
+The first part indicates the actual test 
+values in respect of pH, EC, OC, N, P, K,
+S and wherever facilities are available it also
+includes Zn, Fe, B, Mn and Cu.
+The rating of the soil as Low, Medium
+and High is also indicated against each
+component. The second and third parts contain
+recommendations on application of macro,
+secondary and micronutrients along with
+organic manure, biofertilizers and soil
+amendment required, if any.
+Conventionally, when the soils are classified
+as ‘Medium’ in respect of the nutrient status,
+it is recommended to apply fertilizers as per
+the recommendations for the particular crop.</p>
+
+<p><em>Food - The supreme medicine:</em></p>
+<p>Just like human beings, plants also need balanced nutrition for higher performance.
+    Balanced nutrition gives the plants general health and vigor.
+    Vigorous plants are less prone to insect and disease attack.
+    Plant protection begins with plant nutrition.
+    Hence, Plant nutrition and Plant protection should go hand in hand.
+    Man's health is dependent on Plant's health.
+    Plant's health is dependent on Soil's health.
+    Let us conserve soil and its health.</p>
+
+<p><em>Root, Leaf &amp; Chlorophyll:</em></p>
+<p>All crops are primarily plants.
+    Only Plants have the ability to produce food
+    on their own and provide food to rest of us
+    directly or indirectly.
+    Root, leaf and chlorophyll play major role in food production.</p>
+    
+<p><em>ROOTS:</em></p>
+<p>Roots are not just leg of the plant, but also
+mouth of the plant. They are the supplier of raw material like
+water and minerals to the leaf.
+Hence, larger the root system (deeper &amp;
+wider) – quicker the absorption and supply
+of raw materials to the leaves.
+Deeper the root system more the drought
+resistance to the plants.
+Healthier the root – higher the efficiency of
+the root activity.
+Anything that can impair the root growth
+can also impair its function.
+Physical factors like soil texture, temperature,
+moisture and physical damage can affect
+root growth.
+Chemical factors like soil pH can impair the
+mineral absorption of the minerals.
+Biological factors like soil-borne insects, 
+nematodes, pathogenic bacteria and fungi
+can cause disease and hence impair the
+root’s functions.
+Hence, it is important to ensure that the
+roots are healthy and functional.</p>
+
+<p><em>LEAVES:</em></p>
+
+<p>Leaf is the kitchen of the plant where food
+is prepared.
+More the number of leaves and larger their
+size, more kitchen space to cook food faster.
+Anything that affects the leaf development
+will affect their efficiency.
+Damages due to foliar diseases caused by
+viruses, bacteria, fungi and insects drastically
+reduce their efficacy.
+Physical factors like very low or high
+temperatures, lack of sufficient water and
+nutrition can lead to poor leaf development.
+So help the plant to have more and larger
+leaves for better productivity</p>
+
+<p><em>CHLOROPHYLL:</em></p>
+<p>Chlorophyll is the cook in the kitchen.
+Only this green pigment of the plant has
+the ability to use solar energy required for
+photosynthesis.
+Larger the number of chlorophyll content
+per unit area, greener the leaves.
+Greener the leaf, faster the food production
+per unit time.
+Many nutrients like Nitrogen, Magnesium,
+Iron and Zinc are very essential elements for
+chlorophyll production.
+Through balanced nutrition help the plant to
+grow big and greener for higher yields.</p>
+    
     </Layout>
