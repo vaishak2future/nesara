@@ -45,11 +45,6 @@ export default () => <div>
             <h2>We are still learning. We are still teaching. </h2>
 
             <p>- Vaishak Kumar</p>
-
-            <img src={vasanth} />
-            Vaishak Kumar
-            <img src={vaishak} />
-            Vasanth Kumar
         </div>
     </Layout>
     </div>
