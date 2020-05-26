@@ -1,7 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import vasanth from "../../static/vasanth.jpeg"
-import vaishak from "../../static/vaishak.png"
+
 
 export default () => <div>
     <Layout>
