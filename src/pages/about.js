@@ -1,7 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import vasanth from "../../static/vasanth.jpeg"
-import vaishak from "../../static/vaishak.png"
+
 
 export default () => <div>
     <Layout>
@@ -45,11 +44,6 @@ export default () => <div>
             <h2>We are still learning. We are still teaching. </h2>
 
             <p>- Vaishak Kumar</p>
-
-            <img src={vasanth} />
-            Vaishak Kumar
-            <img src={vaishak} />
-            Vasanth Kumar
         </div>
     </Layout>
     </div>
