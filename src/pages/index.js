@@ -5,6 +5,7 @@ import CourseCard from "../components/courseCard"
 import soil from "../../static/soil.jpg"
 import water from "../../static/water.jpeg"
 import tomato from "../../static/tomato.png"
+import def from "../../static/nutrition/leaf.jpg"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -27,7 +28,7 @@ export default () =>
             <CourseCard 
               title = "Nutrition and Deficiencies"
               text = "Food for plants!"
-              img = {tomato}
+              img = {def}
               link = "/nutrition"
             />
             </div>
@@ -36,6 +37,13 @@ export default () =>
               title = "Soil"
               text="From whence all life springs from!"
               img = {soil}
+              link = "/soil"
+            />
+            <br></br>
+             <CourseCard 
+              title = "Diseases"
+              text="How to Diagnose and Treat"
+              img = {tomato}
               link = "/soil"
             />
            
