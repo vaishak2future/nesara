@@ -44,7 +44,7 @@ export default () =>
               title = "Diseases"
               text="How to Diagnose and Treat"
               img = {tomato}
-              link = "/soil"
+              link = "/diseases"
             />
            
     </Layout>
