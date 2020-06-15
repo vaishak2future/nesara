@@ -20,4 +20,5 @@ export default () => <Layout>
 
 <p>https://www.mda.state.mn.us/sites/default/files/inline-files/draftsoilfoliarneonicguide.pdf</p>
 <p>https://en.wikipedia.org/wiki/Neonicotinoid</p>
+</Layout>
 
