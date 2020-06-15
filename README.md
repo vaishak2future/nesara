@@ -9,11 +9,7 @@
 1.  **Prerequisite**
 
     Install NPM (Node Package Manager)
-
-    ```shell
-    # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
-    ```
+    We're not your mom but use an IDE (We recommend VS Code)
 
 1.  **Start developing.**
 
