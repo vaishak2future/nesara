@@ -13,15 +13,12 @@ export default () =>
 
     <Layout>
         <div>
-            <h3 css={css`
+            <h1 css={css`
             text-align: center;
-            `}>Bringing Information to the Frontlines</h3>
-            <p>Nesara is working to bring critical information to a new generation of farmers in the developing world.
-               Land conservation is as important as it has ever been.
-            </p>
+            `}>Agriculture in India </h1>
         </div>
 
-            <h3 css={css`text-align: center;`}>Courses</h3>
+            
             <div css={css`
             margin: auto;
             `}>
