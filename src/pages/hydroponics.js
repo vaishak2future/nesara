@@ -15,6 +15,24 @@ export default () =>
         <h1>Hydroponics</h1>
         <p>Hydroponics is a method of cultivating plants in a soil-free medium, and supplying them with the mixture of nutrients required through water. In place of soil, a sterile and inert growing medium is used, and combined with nutrient enriched water. </p>
 
+    
+    <div style={{
+        backgroundColor: 'beige',
+        width: '40%',
+        paddingLeft: '2%',
+        paddingTop: '1%',
+        paddingBottom: '1%'
+    }}>
+      
+    
+      <div><a href="#anchorHistory">History of Hydroponics</a></div>
+      <div><a href="#anchorOtherInfo">Other Information</a></div>
+      <div><a href="#anchorProsAndCons">Pros and Cons</a></div>
+
+        </div>
+        <h2 id="anchorHistory"></h2>
+
+        <h4>History of Hydroponics</h4>
         <p>Quite surprisingly, hydroponics is not a modern technology at all! Although hydroponics is considered high-tech, it is as old as the pyramids. </p>
 
 <p>The first hydroponic garden existed probably around 600 BC. Plants have been growing in lakes and seas from ages. Humans probably tried imitating this in the ancient city of Babylon. The earliest successful experiments of hydroponics were in the  Hanging Gardens of Babylon. Hieroglyphic records found on the banks of the Nile, dating back several hundred years, describe cultivation of plants without soil using only water. </p>
@@ -26,6 +44,10 @@ export default () =>
 <p>The excitement around hydroponics was always prevalent through the ages. But hydroponic technology became economically viable only in the late 1970s with the advent of hi-tech plastics and simpler system design coming into being. The energy saving poly greenhouse covers, the PVC (or similar) pipe used in the feed systems, the nutrient injector pumps and reservoir tanks are all made of types of plastic that weren't available prior to the 1970s.
 In hydroponic cultivation, the plants are provided with the particular minerals and nutrients they require. So, unlike in soil, plants don’t have to continuously grow their root system in search of water, nutrients and oxygen. Instead the energy is spent on production of leaves, flowers and fruits. Therefore, hydroponic plants will develop flowers and fruits with optimum levels of appearance, yield and flavour. Hydroponics allows growers to get 2 to 10 times more yield from their plants, in just half the space and half the time.</p>
 
+
+<h2 id="anchorOtherInfo"></h2>
+
+<h4>Other Information</h4>
 <p>It is possible to monitor pH and nutrients that plants are getting and to see that they get the exact nutrients they need in hydroponic cultivation. The hydroponic systems are closed and they recycle the water that is not used by plants. The ability to grow indoors allows farmers to control temperatures and lighting schedules to improve plant production. Systems can be designed to make use of vertical space and increase planting density. Hydroponics also allow us to create farms in locations where soil conditions are too poor to support farming, or space is limited and a farm otherwise couldn’t exist.</p>
 
 <p></p>Any plant can grow hydroponically, but some will do better than others. Hydroponic cultivation is ideal for crops such as peppers, cucumbers and tomatoes, leafy crops, like lettuce and herbs and flowering plants. The other crops that can be grown are strawberries, spring onion, blueberries, coriander, potatoes and green beans.
@@ -38,6 +60,9 @@ As the technology gets better, hydroponics may even be productive enough, to fee
 
 <p>Hydroponics have the following advantages over traditional farming methods:</p>
 
+<h2 id="anchorProsAndCons"></h2>
+<h4>Pros and Cons</h4>
+<h6>Advantages</h6>
 <p>
 <ul>
 <li>Water use efficiency is very high and upto 90% water can be saved in this method.</li>
@@ -54,6 +79,7 @@ As the technology gets better, hydroponics may even be productive enough, to fee
 </ul></p>
 
 
+<h6>Challenges</h6>
 <p> The challenges in Hydroponic cultivation are:
 <ul>
 <li>It needs adequate knowledge and commitment to pursue.</li>

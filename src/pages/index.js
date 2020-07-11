@@ -8,6 +8,7 @@ import tomato from "../../static/tomato.png"
 import def from "../../static/nutrition/leaf.jpg"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import hydroponics from "../../static/hydroponics.jpg"
 
 export default () => 
 
@@ -18,10 +19,20 @@ export default () =>
             `}>Agriculture in India </h1>
         </div>
 
+
             
             <div css={css`
             margin: auto;
             `}>
+        
+            <br></br>
+            <CourseCard 
+              title = "Hydroponics"
+              text="Where's the soil?"
+              img = {hydroponics}
+              link = "/hydroponics"
+            />
+            <br></br>
             <CourseCard 
               title = "Nutrition and Deficiencies"
               text = "Food for plants!"
@@ -43,5 +54,5 @@ export default () =>
               img = {tomato}
               link = "/diseases"
             />
-           
+
     </Layout>
