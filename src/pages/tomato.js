@@ -19,14 +19,33 @@ export default () =>
         
         </head>
         <body>
+        
         <h1>Tomato</h1>
             <div>
             <p>The tomato plant is an easy to grow and relatively forgiving plant. They are best grown in warm, sunny conditions, and have little tolerance for frost. <b>Here are some tips to help you start growing your own tomato plants</b></p>
             </div>
+
+    <div style={{
+        backgroundColor: 'beige',
+        width: '40%',
+        paddingLeft: '2%',
+        paddingBottom: '1%',
+        paddingTop: '1%'
+    }}>
+      
+    
+      <div><a href="#anchorVarieties">Varieties</a></div>
+      <div><a href="#anchorPlanting">Planting</a></div>
+      <div><a href="#anchorCareAndMaintenance">Care and Maintenance</a></div>
+      <div><a href="#anchorOtherInfo">Other Information</a></div>
+
+    </div>
+            <h2 id="anchorVarieties"></h2>
             <h4>Varieties</h4>
             <h6>Bush (determinate) vs Vine (indeterminate)</h6>
             <p>There are two main types of tomato plant: <strong>Bush Tomatoes</strong> (a.k.a. determinate) and <strong>Vining Tomatoes</strong> (a.k.a. indeterminate). Bush tomatoes are the more simple to grow out of the two varieties, and require less maintenance. They generally grow anywhere from 2 feet to 5 feet, based on the variety. They can be grown easily in garden beds and do not require the use of stakes and support systems. They remain in-season for a shorter period than vining varieties and yield most of their tomatoes around the same time as opposed to a staggered fashion. Vining tomato plants require more maintenance than bush tomatoes, however they are also said to yield a more desirable, flavorful product. If they are provided with the correct supports and nutrition, vining tomato varieties generally grow to around 5-6 feet, but have been known to exceed that height. Their yield is gradual, and provides tomatoes at a relatively constant rate throughout the season. </p>  
             <p></p>
+            <h2 id="anchorPlanting"></h2>
             <h4>Planting</h4>
             <h6>When To Plant:</h6>
             <p>Tomatoes grow best in warm weather, and weather is largely dependent on geographic location, so different regions have different planting windows, usually lasting multiple weeks. To decide when to plant in your region, research local weather ahead of time to determine the date of the last frost, and consider planting seeds indoors, 6-8 weeks before the last frost date. This will allow you to get a head-start on the growth of your plant. Optimal temperature for fruit production is between 65 and 85 degrees Fahrenheit, or between 15 and 30 degrees Celsius. </p> 
@@ -42,6 +61,7 @@ export default () =>
                     <li>The soil does not consist of heavy clay (unsuitable for tomatoes)</li>
                     </ul>
                     <div>Before planting, create stakes or purchase a tomato plant support, like a cage or a stake, and plant the seedling along the support, so it can be tied down after some growth.</div></p>
+            <h2 id="anchorCareAndMaintenance"></h2>
             <h4>Care and Maintenance</h4>
             <h6>Watering:</h6>
                 <p>Water regularly, every three to four days once mature, more if the weather is dry or hot. In the watering of tomatoes, it is recommended to water the roots directly instead of the plant. Watering is crucial, so do not rush. Ensure that the watering is slow and reaches deeply, preferably through a method of drip irrigation. The application of mulch to the top level of soil may help preserve water and slow the evaporation process, which benefits the plant.  </p>
@@ -57,7 +77,8 @@ export default () =>
                         <p>Make sure that when fertilizing, all raw fertilizer is mixed and dispersed evenly throughout the soil and not in direct contact with the root in concentrated amounts to prevent harm from the </p>
                 </div>
             <h6>Support Systems:</h6>
-                <p>When growing many varieties of tomatoes, support structures such as stakes and cages are essential to the growth of the plant and to the stability of the plant. Stakes can be inserted either prior to the plantation or afterwards, and can be tied to the plant's stem and branches as it begins to grow taller. Similarly, cages also support the plant's stem and branches, but do not need to be tied.</p>
+                <p>When growing many varieties of tomatoes, support structures such as stakes and cages are essential to the growth of the plant and to the stability of the plant. Stakes can be inserted either prior to the plantation or afterwards, and can be tied to the plant's stem and branches as it begins to grow taller. Similarly, cages also support the plant's stem and branches, but do not need to be tied.</p>                <h2 id="anchorVarieties"></h2>
+            <h2 id="anchorOtherInfo"></h2>
             <h4>Other Important Info</h4>
             <h6>Nutritional Info</h6>
             <p>Here is the nutritional information for tomatoes (per 100g)
