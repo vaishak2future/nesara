@@ -16,7 +16,7 @@ export default () =>
         <div>
             <h1 css={css`
             text-align: center;
-            `}>Agriculture in India </h1>
+            `}>The Future of Agritech </h1>
         </div>
 
 
