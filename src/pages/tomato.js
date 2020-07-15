@@ -43,7 +43,7 @@ export default () =>
             <h2 id="anchorVarieties"></h2>
             <h4>Varieties</h4>
             <h6>Bush (determinate) vs Vine (indeterminate)</h6>
-            <p>There are two main types of tomato plant: <strong>Bush Tomatoes</strong> (a.k.a. determinate) and <strong>Vining Tomatoes</strong> (a.k.a. indeterminate). Bush tomatoes are the more simple to grow out of the two varieties, and require less maintenance. They generally grow anywhere from 2 feet to 5 feet, based on the variety. They can be grown easily in garden beds and do not require the use of stakes and support systems. They remain in-season for a shorter period than vining varieties and yield most of their tomatoes around the same time as opposed to a staggered fashion. Vining tomato plants require more maintenance than bush tomatoes, however they are also said to yield a more desirable, flavorful product. If they are provided with the correct supports and nutrition, vining tomato varieties generally grow to around 5-6 feet, but have been known to exceed that height. Their yield is gradual, and provides tomatoes at a relatively constant rate throughout the season. </p>  
+            <p><sup>1</sup>There are two main types of tomato plant: <strong>Bush Tomatoes</strong> (a.k.a. determinate) and <strong>Vining Tomatoes</strong> (a.k.a. indeterminate). Bush tomatoes are the more simple to grow out of the two varieties, and require less maintenance. They generally grow anywhere from 2 feet to 5 feet, based on the variety. They can be grown easily in garden beds and do not require the use of stakes and support systems. They remain in-season for a shorter period than vining varieties and yield most of their tomatoes around the same time as opposed to a staggered fashion. Vining tomato plants require more maintenance than bush tomatoes, however they are also said to yield a more desirable, flavorful product. If they are provided with the correct supports and nutrition, vining tomato varieties generally grow to around 5-6 feet, but have been known to exceed that height. Their yield is gradual, and provides tomatoes at a relatively constant rate throughout the season. </p>  
             <p></p>
             <h2 id="anchorPlanting"></h2>
             <h4>Planting</h4>
@@ -64,11 +64,11 @@ export default () =>
             <h2 id="anchorCareAndMaintenance"></h2>
             <h4>Care and Maintenance</h4>
             <h6>Watering:</h6>
-                <p>Water regularly, every three to four days once mature, more if the weather is dry or hot. In the watering of tomatoes, it is recommended to water the roots directly instead of the plant. Watering is crucial, so do not rush. Ensure that the watering is slow and reaches deeply, preferably through a method of drip irrigation. The application of mulch to the top level of soil may help preserve water and slow the evaporation process, which benefits the plant.  </p>
+                <p>Water regularly, every three to four days once mature, more if the weather is dry or hot. In the watering of tomatoes, <sup>2</sup>it is recommended to water the roots directly instead of the plant. Watering is crucial, so do not rush. Ensure that the watering is slow and reaches deeply, preferably through a method of drip irrigation. The application of mulch to the top level of soil may help preserve water and slow the evaporation process, which benefits the plant.  </p>
             <h6>Soil Care and Fertilization:</h6>
                 <p>To ensure the well-being of the plant, soil care is quite important. Make sure that the soil you plant in has good drainage, and is rich. If it consists of clay, consider mixing it with organic items like peat moss to improve texture and richness. Consider buying a soil test kit to determine the pH and nutrient levels of your soil. By doing so, you can choose a more specific fertilizer to meet the needs of your tomato garden. These fertilizers usually contain phosphorus, potassium, and nitrogen, as well as magnesium, calcium, zinc, and boron. These macro- and micronutrients are present in different ratios in varying fertilizers meant for different types of soils and gardens.</p>
                 <div>
-                   <h6>Purpose of Each Major Nutrient:</h6>
+                   <h6><sup>3</sup>Purpose of Each Major Nutrient:</h6>
                     <ul>
                         <li><strong>Nitrogen:</strong> To help leaves and foliage flourish (too much can create a lack of fruit)</li>
                         <li><strong>Phosphorus:</strong>To encourage growth, phosphorus helps make other nutrients usable by the plant</li>
@@ -90,7 +90,28 @@ export default () =>
                     <li>Protein - 0.9g</li>
                     </ul>
             </p>
+            <div style={{
+                backgroundImage: 'linear-gradient(yellowgreen, lime)',
+                width: '100%',
+                paddingLeft: '4%',
+                paddingRight: '2%',
+                paddingTop: '2%',
+                paddingBottom: '1%',
+                borderTopLeftRadius: '25%',                                
+            }}>
+                <br></br>
+                <sup>1</sup>
+                    <a href="https://www.thespruce.com/indeterminate-tomato-variety-1403423">https://www.thespruce.com/indeterminate-tomato-variety-1403423</a>
+                <br></br>
+                <sup>2</sup>
+                    <a href="https://garden.org/learn/articles/view/368/">https://garden.org/learn/articles/view/368/</a>
+                <br></br>
+                <sup>3</sup>
+                    <a href="https://dengarden.com/gardening/best-fertilizer-for-tomato-plants-and-all-about-fertilizing-tomatoes">https://dengarden.com/gardening/best-fertilizer-for-tomato-plants-and-all-about-fertilizing-tomatoes</a>
+                <br></br>
 
+                     
+            </div>
 
         </body>
         

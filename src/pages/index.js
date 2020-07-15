@@ -9,6 +9,7 @@ import def from "../../static/nutrition/leaf.jpg"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import hydroponics from "../../static/hydroponics.jpg"
+import genericPlant from "../../static/genericPlant.jpg"
 
 export default () => 
 
@@ -18,13 +19,15 @@ export default () =>
             text-align: center;
             `}>Agriculture in India </h1>
         </div>
-
-
-            
             <div css={css`
             margin: auto;
             `}>
-        
+            <CourseCard 
+              title = "Plants"
+              text="All About Plants!"
+              img = {genericPlant}
+              link = "/plants"
+            />
             <br></br>
             <CourseCard 
               title = "Hydroponics"
