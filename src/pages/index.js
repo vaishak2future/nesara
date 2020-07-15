@@ -23,10 +23,10 @@ export default () =>
             margin: auto;
             `}>
             <CourseCard 
-              title = "Plants"
-              text="All About Plants!"
+              title = "Crops"
+              text="All About Crops!"
               img = {genericPlant}
-              link = "/plants"
+              link = "/crops"
             />
             <br></br>
             <CourseCard 
