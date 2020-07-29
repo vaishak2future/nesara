@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import ControlledCarousel from "../components/controlledCarousel"
 import soil from "../../static/soil.jpg"
+import { Link } from "gatsby"
 
 
 
@@ -18,121 +19,62 @@ export default () => <Layout>
 <p>Soil properties decide the nature of conversion, conservation of nutrients, and how they are made available to the plants.</p>
 
 <p><strong>Soil Types</strong></p>
-<p><em>1. Alluvial soils (Entisols)</em></p>
-<p><ul>
-    <li>These are most important from agriculture point of view.</li>
-    <li>Alluvial soils are formed mainly due to silt deposited by rivers.</li>
-    <li>In coastal regions, some alluvial deposits are formed due to wave action.</li>
-    <li>The parent material of these soils is of transported origin.</li>
-    <li>The soil is porous because it has about equal proportions of sand and clay (loamy), but clayey soils are not uncommon.</li>
-    <li>While they are generally low in Nitrogen, the proportion of Potash, Phosphoric Acid and alkalies are adequate.</li>
-    <li>They are best suited to irrigation and respond well to canal and well/tube-well irrigation.</li>
-</ul></p>
 
-<p><em>2. Black soils (Vertisols)</em></p>
-<p><ul>
-    <li>A typical black soil has a high clay content of 62% or more.</li>
-    <li>The black soils have high moisture retention capacity, and are generally neutral to slightly alkaline.</li>
-    <li>When dry, soil shrinks and develops deep cracks permitting oxygenation of the soil to sufficient depths and thus enhancing fertility.</li>
-    <li>The black colour is due to the presence of a small proportion of Titaniferous Magnetite or Iron and black constituents of the parent rock.</li>
-    <li>They generally contain 10% Alumina, 9-10% Iron Oxide, 6-8% lime and Magnesium Carbonates, less than 0.5% Potash and are low in Phosphates, Nitrogen and humus.</li>
-    <li>This soil has been used for growing a variety of crops for centuries without adding fertilizers and manures.</li>
-</ul></p>
 
-<p><em>3. Red soils (Alfisols)</em></p>
-<p><ul>
-    <li>The main parent rocks are crystalline and metamorphic rocks.</li>
-    <li>The red colour is due to the presence of oxides of Iron.</li>
-    <li>The texture of these soils can vary from sand to clay, the majority being loams.</li>
-    <li>On the uplands, the red soils are poor, gravelly and porous.</li>
-    <li>But in the lower areas they are rich, deep dark and fertile.</li>
-    <li>They are mostly acidic and are poor in lime, Magnesium, Phosphates, Nitrogen and humus.</li>
-    <li>They are fairly rich in Potassium.</li>
-    <li>The red soils are mostly loamy and hence cannot retain water unlike the black soils.</li>
-</ul></p>
-
-<p><em>4. Laterite soils (Oxisols)</em></p>
-<p><ul>
-    <li>Laterite soils are mostly the end products of weathering, formed under high temperatures and high rainfall with alternate wet and dry periods.</li>
-    <li>Laterite soils are red in color due to little clay and more gravel of red sand-stones.</li>
-    <li>Lime and Silica are leached away in heavy rainfall, but the soil is rich in oxides of Iron and Aluminium compounds.</li>
-    <li>They are very poor in lime, Magnesium, Potash and Nitrogen.</li>
-    <li>Sometimes, the Phosphate content may be high in the form of Iron Phosphate.</li>
-    <li>Laterite soils lack fertility due to intensive leaching.</li>
-    <li>When manured and irrigated, some laterites are suitable for growing plantation crops like Tea, Coffee, Rubber, Cinchona, Coconut, Arecanut, etc.</li>
-</ul></p>
-
-<p><em>5. Forest-Mountain soils</em></p>
-<p><ul>
-    <li>They are mainly heterogeneous soils found on the hill slopes covered by forests.</li>
-    <li>The formation of these soils is mainly governed by the characteristic deposition of organic matter derived from forests and their character changes with parent rocks, ground-configuration and climate.</li>
-    <li>The forest soils are very rich in humus and are mostly acidic.</li>
-    <li>They are deficient in Potash, Phosphorus and lime.</li>
-    <li>They require good deal of fertilizers for high yields.</li>
-</ul></p>
-
-<p><em>6. Arid-Desert soils</em></p>
-<p><ul>
-    <li>The desert soils consist of sand (90 - 95%) and clay (5 - 10%).</li>
-    <li>They are usually poor in organic matter.</li>
-    <li>Some desert soils are alkaline with varying degree of soluble salts like Calcium carbonate.</li>
-    <li>Calcium content increases downwards with the subsoil having ten times more Calcium.</li>
-    <li>The Phosphate content of these soils is as high as in normal alluvial soils.</li>
-    <li>Nitrogen is originally low but some of it is available in the form of Nitrates.</li>
-    <li>Phosphates and Nitrates make these soils fertile wherever moisture is available.</li>
-    <li>There is a possibility of reclaiming these soils if proper irrigation facilities are available.</li>
-</ul></p>
-
-<p><em>7. Saline-Alkaline soils</em></p>
-<p><ul>
-    <li>They show white incrustation of salts of Calcium, Magnesium and Sodium on the surface.</li>
-    <li>These are poor in drainage and are infertile.</li>
-    <li>In regions with low water table, the salts percolate into sub-soil and in regions with good drainage, the salts are wasted away by flowing water.</li>
-    <li>But in places where the drainage system is poor, the water with high salt concentration becomes stagnant and deposits all the salts in the top soil as it evaporates.</li>
-    <li>In regions with high sub-soil water table, injurious salts are transferred from below by the capillary action as a result of evaporation in dry season.</li>
-</ul></p>
-
-<p><em>8. Peaty and Marshy soils</em></p>
-<p><ul>
-    <li>These types of soils are found in coastal tracts.</li>
-    <li>Accumulation of partly decayed organic matter over several years in the presence of high moisture gives rise to peaty and marshy soils.</li>
-    <li>These are black in colour, heavy and highly acidic.</li>
-    <li>When properly drained and fertilized, these soils produce good crops of rice.</li>
-</ul></p>
+<p><ol>
+    <li>
+        <p><Link to={"/soil/soilTypes/alluvialSoils"}>Alluvial Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/blackSoils"}>Black Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/redSoils"}>Red Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/lateriteSoils"}>Laterite Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/forestMountainSoils"}>Forest Mountain Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/aridDesertSoils"}>Arid Desert Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/salineAlkalineSoils"}>Saline Alkaline Soils</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilTypes/peatyAndMarshySoils"}>Peaty and Marshy soils</Link></p>
+    </li>
+</ol></p>
 
 <p><strong>SOIL COMPOSITION</strong></p>
+    <p>An ideal soil is made of mineral matter (45-50%), organic matter (1-5%), air (25%) and water (25%).</p>
+<p><ol>
+    <li>
+        <p><Link to={"/soil/soilComposition/soilMineralMatter"}>Soil Mineral Matter</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilComposition/soilOrganicMatter"}>Soil Organic Matter</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilComposition/soilWaterAndAir"}>Soil Water and Air</Link></p>
+    </li>
+      
+</ol></p>
 
-<p>An ideal soil is made of mineral matter (45-50%), organic matter (1-5%), air (25%) and water (25%).</p>
 
-<p><em>1. Soil Mineral Matter</em></p>
-<p><ul>
-    <li>Mineral matter is largely made up of Oxygen and Silicon.</li>
-    <li>Most abundantly available plant nutrients are Iron, Potassium and Magnesium.</li>
-    <li>The particulate size ranges from large pieces of gravel to coarse sand (2 - 0.2 mm) to fine clay (0.002 mm).</li>
-    <li>The mineral matter determines the soil texture and its water holding capacity.</li>
-    <li>Silt is a storehouse of nutrients, while clay along with organic matter is most active.</li>
 
-</ul></p>
 
-<p><em>2. Soil Organic Matter</em></p>
-<p><ul>
-    <li>The organic matter (OM) consists of a variety of (Bacteria, Fungi, Algae, Actinomycetes, etc.), animal life (Earthworms, Nematodes, Protozoa, Mites, Beetles, Moles, etc.), their excretions, debris of dead bodies decomposed to various extents.</li>
-    <li>It ranges from less than 1% in many soils in the plains to 3-4% in forest and mountain soils.</li>
-    <li>Average composition of OM is 47% C, 44% O, 7% H, 2% N and traces of other elements.</li>
-    <li>It is the storehouse of nutrients, affects cation exchange, water retention, and fixation and release of nutrients.</li>
-</ul></p>
 
-<p><em>3. Soil Water and Air</em></p>
-<p><ul>
-    <li>Soil water that is also called Soil Solution, is the dilute solution containing small amounts of every soluble compound present in the soils.</li>
-    <li>Soil water promotes physical and biological activities of soil, acts as solvent and carrier of nutrients and maintains turgidity of plants.</li>
-    <li>Soil water transports nutrients to the root, to the soil surface or subsoil depending on the direction of water flow.</li>
-    <li>Soil air is essential for most of the biological reactions in the soil.</li>
-    <li>Soil air has about ten times more carbon dioxide than atmospheric air, due to respiration by roots and soil microorganisms.</li>
-    <li>Soil air is the pathway for intake of oxygen that is absorbed by soil microorganisms and plant roots and for escape of Carbon dioxide produced by the plants.</li>
-    <li>This process called soil aeration is critical for plant growth when water content is high and water replaces soil air.</li>
 
-</ul></p>
+
+
+
+
+
+
+
 
 <p><em>Major role of Organic matter</em></p>
 <p><ul>
@@ -154,97 +96,47 @@ export default () => <Layout>
 
 
 <p><strong>SOIL PROPERTIES</strong></p>
-
-<p><em>Soil Texture</em></p>
 <p><ul>
-
-    <li>Three categories of soil particles - sand, silt and clay are established based on their particle size.</li>
-    <li>Clay particles are the smallest ( &lt;0.002 mm), while sand particles are the largest (0.05- 2.00 mm).</li>
-    <li>Soil texture depends on the proportion of sand, silt and clay.</li>
-    <li>There are 12 classes of soil texture.</li>
-    <li>If most particles are large and coarse the soil is called Sand.</li>
-    <li>Silt is dominated by medium-sized particles and feels like flour.</li>
-    <li>Small-sized soil particles primarily make up a Clay soil.</li>
-
+    <li>
+        <p><Link to={"/soil/soilProperties/soilTexture"}>Soil Texture</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/soilWaterRelations"}>Soil Water Relations</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/fieldCapacity"}>Field Capacity</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/wiltingPoint"}>Wilting Point</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/availableWater"}>Available Water</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/soilPH"}>Soil pH</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/soilElectricalConductivity"}>Soil Electrical Conductivity (EC)</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/cationExchangeCapacity"}>Cation Exchange Capacity (CEC)</Link></p>
+    </li>
+    <li>
+        <p><Link to={"/soil/soilProperties/anionExchangeCapacity"}>Anion Exchange Capacity (AEC)</Link></p>
+    </li>
+      
 </ul></p>
 
-<p><em>Soil water relations</em></p>
-<p><ul>
-    <li>Soil texture and organic matter content determine its water holding capacity (WHC), rate of water intake, percolation, Cation Exchange Capacity (CEC), etc.</li>
-    <li>WHC and CEC increase with increase in clay content and depth.</li>
-    <li>Water intake and percolation increase with increase in the proportion of sand.</li>
-</ul></p>
 
-<p><em>Field Capacity:</em></p>
-<p>Maximum amount of water a soil holds after free drainage, e.g. 10% in sandy soils, 34% in loamy soils and 40% in clay soils.</p>
-
-<p><em>Wilting point:</em></p>
-<p>The amount of available water in the soil, below which plants start to wilt, e.g. 4% in sandy soils, 16% in loamy soils and 24% in clay soils.</p>
-
-<p><em>Available water:</em></p>
-<p>Water held by soil that is available for crop production i.e. FC - WP. e.g.. 6% in sandy soils, 18 % in loamy soils and 16% in clay soils.</p>
-
-<p><em>Soil pH</em></p>
-<p>
-    Soil pH is a very important character that indicates whether the soil is acidic, alkaline or neutral. It is the negative logarithm of the hydrogen ion (H+) 
-    activity and is measured on a 0-14 unit less scale. Soil pH influences the availability, retention and release of nutrients. The ideal pH for one nutrient need not be 
-    ideal for another, making it impossible to attain maximum availability of all nutrients at a given pH. Most acceptable range of pH is between 5.5 and 7.5.
-    Nitrogen, Potassium and Sulphur are relatively less affected by pH. Phosphorus is directly affected. H2PO4 reacts with Calcium and Magnesium ion in alkaline 
-    soils and with Aluminium and Iron in acidic soils to form less soluble compounds. Most micronutrients, except Molybdenum, are less available at pH above 7.5.
-    The low availability of a nutrient should be compensated by increasing its supply through manures and fertilizers.
-    Liming of acid soils and treating alkali soils with Gypsum/ Pyrites is recommended to attain desirable pH range.
-    Continuous use of acid forming fertilizers can cause deficiency of Calcium and Magnesium and also toxicity of Iron and Manganese.
-</p>
-
-<p><em>Soil Electrical Conductivity (EC)</em></p>
-
-<p>
-Electrical conductivity (EC) is the ability of an aqueous solution to carry an electric current. 
-It is the most common measure of soil salinity. Soil electrical conductivity (EC) correlates with soil properties including texture, 
-cation exchange capacity, drainage, organic matter level, salinity, and subsoil characteristics. 
-Plants are detrimentally affected by excess salts in some soils and by high levels of exchangeable Sodium in others.
-The electrical conductivity of soils varies depending on the amount of moisture held by soil particles.
-Sands have a low conductivity, silts have a medium conductivity, and clays have a high conductivity. Na+.
-Electrical Conductivity (EC) is commonly expressed in units of decisiemens/m.
-</p>
-
-<p><em>Cation Exchange Capacity (CEC)</em></p>
-
-<p>Cation exchange capacity (CEC) is the total of its negatively charged (mineral and organic) sites, which are able to hold cations.
-    CEC is measured as meq/100 g (milli equivalents per 100 gm soil).
-    Soils rich in clay and organic matter exhibit maximum CEC.
-    Moderate to high CEC soils are desired since they hold more cations and minimize leaching.
-    The cation exchange is governed by the charge, reactivity and concentration. e.g. Al+++ > Ca++ > Mg++ > K+
-    = NH4+ > H+ > Na+. CEC increases with increase in soil pH.
-</p>
-
-<p><em>Anion Exchange Capacity (AEC)</em></p>
-<p>It is the opposite of CEC, consisting of positively charged sites that can hold and release anions.
-    Clays, organic matter and hydroxides provide for AEC. AEC is much smaller and less important
-    compared to CEC. There is a fair degree of order in which anions are held on to +ve sites, 
-    e.g. H2PO4- > SO4 - > NO3- > Cl-. While Phosphate is held most tightly, Nitrates and Chlorides are held weakly.
-</p>
 
 <p><strong>SOIL FERTILITY, PRODUCTIVITY AND HEALTH</strong></p>
-<p><em>Soil Fertility and Productivity</em></p>
-<p>Soil fertility and productivity is the ability of soil to sustain agricultural plant growth. 
-    It is the ability to supply essential plant nutrients and water in adequate amounts 
-    and proportions for plant growth and reproduction. Conventionally, soil fertility is referred to as
-    soil health. So, a Soil Health Card (SHC) contains information on the nutrient contents of the
-    soil, pH, EC and Organic Carbon, and does not reflect the actual health of the soil.
-</p>
 
-<p><em>Soil health</em></p>
-<p>
-    Soil health is not soil fertility alone. All cultivable soils harbor both useful and
-    harmful organisms. When soil-borne fungi, bacteria, nematodes, protozoa, are present, individually 
-    or in combination, above the threshold level, it is called ‘Sick Soil’. Hence, all fertile and productive soils need
-    not necessarily be ‘healthy soils’. All healthy soils need not be fertile and productive either.
-    Several soil-borne pathogens like Fusarium, Rhizoctonia, Verticillium, Phytophthora, Pythium, Meloidogyne, Heterodera, etc.,
-    thrive well in certain soils and cause severe crop diseases. Such soils are called Conducive soils.
-    Whereas, the same pathogens develop much less and cause milder disease in certain other soils called the Suppressive soils.
-    In most cases the primary reason for a soil being suppressive is the presence of one or several microorganisms antagonistic to the pathogens.
-</p>
+    <p><Link to={"/soil/soilFertilityProductivityAndHealth/soilFertilityAndProductivity"}>Soil Fertility and Productivity</Link></p>
+    <p><Link to={"/soil/soilFertilityProductivityAndHealth/soilHealth"}>Soil Health</Link></p>
+   
+
+
+
 
 <p><em>Management practices to improve soil fertility, productivity and health</em></p>
 <p>1. Reduce Tillage</p>
