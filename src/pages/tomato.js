@@ -94,9 +94,9 @@ export default () =>
                 backgroundImage: 'linear-gradient(yellowgreen, lime)',
                 width: '100%',
                 paddingLeft: '4%',
-                paddingRight: '2%',
+                paddingRight: '1%',
                 paddingTop: '2%',
-                paddingBottom: '1%',
+                paddingBottom: '3%',
                 borderTopLeftRadius: '25%',                                
             }}>
                 <br></br>

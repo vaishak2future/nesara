@@ -13,14 +13,14 @@ import genericPlant from "../../static/genericPlant.jpg"
 
 export default () => <Layout>
     <head>
-        Plants
+        Crops
     </head>
 
     <body>
         <div>
             <h1 css={css`
             text-align: center;
-            `}>Plants</h1>
+            `}>Crops</h1>
         </div>
             <div>
                 <div>
