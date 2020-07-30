@@ -139,110 +139,33 @@ export default () => <Layout>
 
 
 <p><em>Management practices to improve soil fertility, productivity and health</em></p>
-<p>1. Reduce Tillage</p>
-<p>Excessive tillage increases oxygen in the
-soil, stimulates microbial activity, and results
-in the decomposition of organic matter. Tillage also disrupts soil aggregates,
-exposing particles of organic matter that
-were otherwise protected from microbial
-consumption. If additions of organic matter are not
-sufficient to counteract the losses from
-decomposition, organic matter levels will
-decline over time, reducing soil health. Inversion tillage also reduces the soil
-coverage provided by crop residues, leaving
-soil more exposed to erosion. Tillage can also disrupt the hyphal network
-of Mycorrhizal fungi, which can lead to their
-decline over time.</p>
 
-<p>2. Reduce Soil Compaction</p>
-<p>Soil compaction occurs when soil is exposed to excessive human and equipment traffic 
-    while the soil is wet and plastic. Compaction results in reduction of pore 
-    space and increased bulk density, leading to poor water infiltration and drainage and
-    increased runoff. Soil compaction increases soil hardness,
-    making it more difficult for plant roots to grow through the soil. 
-    Compaction and removal of surface residue may contribute to reduction in soil moisture 
-    and living space for soil-dwelling organisms.
-</p>
-
-<p>3. Increase organic matter inputs</p>
-<p>
-The inputs of organic matter must meet or exceed the losses of organic matter due to decomposition.
-Healthy crops can be a valuable source of organic matter, and crop residues should be returned to the soil to the extent possible.
-Incorporation of cover crops or perennial crops and judicious additions of green manure, green leaf manure and compost
-can also be used to increase or maintain soil organic matter.
-</p>
-
-<p>4. Use cover crops</p>
-<p>
-    Cover crops keep the soil covered during
-    periods of time when crops have not formed
-    a good canopy, reducing the risk of erosion.
-The biomass produced by cover crops is
-usually returned to the soil, enhancing
-organic matter levels.
-Cover crops with taproots can create
-macropores and alleviate compaction.
-Species of cover crops that host mycorrhizal
-fungi can sustain and increase the population
-of these beneficial fungi.
-Legume cover crops can add Nitrogen to the
-soil through Nitrogen fixation.
-Cover crops can retain nitrate and other
-nutrients that are susceptible to leaching
-losses.
-</p>
-
-<p>5. Reduce pesticide use and provide habitat for beneficial organisms</p>
-<p>
-    Beneficial insects that contribute to biological control or pest organisms can be harmed 
-    by the application of broad-spectrum insecticides. Avoid indiscriminate use of pesticides that
-    also kill non-target and beneficial insects. 
-</p>
-
-<p>6. Rotate Crops</p>
-<p>Diverse crop rotations will help break up soil-borne pest and pathogen life cycles, improving crop health. •	 Rotations can also assist in managing weeds.
-    Rotating crops can also help reduce nutrient excesses.
-</p>
-
-<p>7. Manage Nutrients</p>
-<p>Minimise nutrient excess by carefully
-planning the timing, application method,
-and quantity of manure, compost, and other
-fertilizers. Over-fertilizing can increase pest problems.
-Increasing soluble Nitrogen levels in plants
-can decrease their resistance to pests,
-resulting in higher pest density and crop
-damage. Maintain soil pH appropriate for the crop
-to improve nutrient availability and reduce
-toxicity. Maintain adequate Calcium levels to
-help earthworms thrive and improve soil
-aggregation. Use diverse nutrient sources, which help in
-maintaining soil fertility. Manure and compost add organic matter as
-well as an array of nutrients. But using just
-compost or manure to meet the Nitrogen
-needs of the crop every year can result in
-excessive Phosphorus levels in the soil. Combine modest manure or compost
-additions to meet Phosphorus needs with
-additional Nitrogen inputs from legume cover
-or forage crops in a crop rotation to balance
-both Nitrogen and Phosphorus inputs.
-</p>
-
-<p>8. Add beneficial organisms</p>
-<p>Add bio-control agents like Trichoderma viride, Trichoderma harzianum,
-Pseudomonas fluorescens, Bacillus subtilis, Fusarium proliferatum (against fungi), 
-Bacillus firmus, Paecilomyces lilacinus 
-(against nematodes), for control of soilborne pathogens. 
-Add bio-fertilizers like Nitrogen fixing bacteria, Phosphorus solubilizing bacteria,
-Potassium mobilizing bacteria, Ferrous mobilizing bacteria, Zinc mobilizing bacteria, 
-Sulphur mobilizing bacteria, Manganese 
-solubilizing microbe, Vesicular Arbuscular Mycorrhizae (VAM), etc. 
-Jeevamrutha may also be added periodically to maintain the beneficial micro-organisms
-in the soil. Jeevamrutha, provides a congenial environment to soil microorganisms that
-play an important role in making available essential nutrients for plant growth viz.,
-Nitrogen, Phosphorus and Potassium to the plants. It encourages microbial activity in the soil
-and improves soil health considerably.
-</p>
+<ul>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/reduceTillage"}>Reduce Tillage</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/reduceSoilCompaction"}>Reduce Soil Compaction</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/increaseOrganicMatterInputs"}>Increase organic matter inputs</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/useCoverCrops"}>Use cover crops</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/reducePesticideUse"}>Reduce pesticide use and provide habitat for beneficial organisms</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/rotateCrops"}>Rotate Crops</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/manageNutrients"}>Manage Nutrients</Link></p>
+    </li>
+    <li>
+    <p><Link to={"../soil/soilFertilityProductivityAndHealth/managementPractices/addBeneficialOrganisms"}>Add Beneficial Organisms</Link></p>
+    </li>
+</ul>
 
 <p><em>Green manuring & Green leaf manuring</em></p>
 
