@@ -1,6 +1,11 @@
 import React from "react"
 import Layout from "../../../components/layout"
 import { Link } from "gatsby"
+/*
+import lateriteSoilPic1 from
+import lateriteSoilPic2 from
+import lateritebricks from
+*/
 export default () => <Layout>
     <Link to={"../soil"}><h2>Soil</h2></Link>
     <p><em>4. Laterite soils (Oxisols)</em></p>
@@ -13,4 +18,10 @@ export default () => <Layout>
     <li>Laterite soils lack fertility due to intensive leaching.</li>
     <li>When manured and irrigated, some laterites are suitable for growing plantation crops like Tea, Coffee, Rubber, Cinchona, Coconut, Arecanut, etc.</li>
 </ul></p>
+{/*
+<img src = {lateriteSoilPic1}/>
+<img src = {lateriteSoilPic2}/>
+<img src = {lateritebricks}/>
+*/}
+
 </Layout>

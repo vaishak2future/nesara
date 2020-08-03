@@ -8,6 +8,8 @@ import tomato from "../../static/tomato.png"
 import def from "../../static/nutrition/leaf.jpg"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import riceCoverPic from "../../static/riceCoverPic.jpg"
+
 
 export default () => 
 
@@ -20,7 +22,7 @@ export default () =>
        
         <h1>Rice</h1>
            
-          
+        <img src = {riceCoverPic}/>
             <p>Rice, family name Oryza, is a globally consumed grain, largely consisting of carbohydrates, rice is essential to many cuisines around the world. As a grain, it is inexpensive, widely available, easy to cook, good-tasting, and substantial, making it the perfect food for many people. </p>
     <div style={{
         backgroundColor: 'beige',

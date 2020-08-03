@@ -1,6 +1,10 @@
 import React from "react"
 import Layout from "../../../components/layout"
 import { Link } from "gatsby"
+/*
+import peatyMarshySoilPic1 from 
+import peatyMarshySoilPic2 from 
+*/
 export default () => <Layout>
     <Link to={"../soil"}><h2>Soil</h2></Link>
 
@@ -11,4 +15,10 @@ export default () => <Layout>
     <li>These are black in colour, heavy and highly acidic.</li>
     <li>When properly drained and fertilized, these soils produce good crops of rice.</li>
 </ul></p>
+
+{/*
+<img src = {peatyMarshySoilPic1}/>
+<img src = {peatyMarshySoilPic2}/>
+*/}
+
 </Layout>

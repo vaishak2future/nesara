@@ -7,6 +7,7 @@ import { Link } from "gatsby"
 
 
 
+
 export default () => <Layout>
     <h3>Soil and Fertilizer</h3>
     <ControlledCarousel/>
@@ -28,6 +29,7 @@ export default () => <Layout>
     <li>
         <p><Link to={"/soil/soilTypes/blackSoils"}>Black Soils</Link></p>
     </li>
+    
     <li>
         <p><Link to={"/soil/soilTypes/redSoils"}>Red Soils</Link></p>
     </li>

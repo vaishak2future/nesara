@@ -1,6 +1,12 @@
 import React from "react"
 import Layout from "../../../components/layout"
 import { Link } from "gatsby"
+/*
+import salineAlkalineSoilPic1 from
+import salineAlkalineSoilPic2 from
+import salineAlkalineSoilPic3 from
+*/
+
 export default () => <Layout>
     <Link to={"../soil"}><h2>Soil</h2></Link>
 
@@ -12,4 +18,11 @@ export default () => <Layout>
     <li>But in places where the drainage system is poor, the water with high salt concentration becomes stagnant and deposits all the salts in the top soil as it evaporates.</li>
     <li>In regions with high sub-soil water table, injurious salts are transferred from below by the capillary action as a result of evaporation in dry season.</li>
 </ul></p>
+
+{/*
+<img src = {salineAlkalineSoilPic1}/>
+<img src = {salineAlkalineSoilPic2}/>
+<img src = {salineAlkalineSoilPic3}/>
+*/}
+
 </Layout>
