@@ -1,6 +1,12 @@
 import React from "react"
 import Layout from "../../../components/layout"
 import { Link } from "gatsby"
+/*
+import richBlackSoil from "../../../../public/static/soil/richBlackSoil.jpg"
+import blackSoilWater from
+import crackedSoil from
+*/
+
 export default () => <Layout>
     <Link to={"../soil"}><h2>Soil</h2></Link>
     <p><em>2. Black soils (Vertisols)</em></p>
@@ -12,4 +18,12 @@ export default () => <Layout>
     <li>They generally contain 10% Alumina, 9-10% Iron Oxide, 6-8% lime and Magnesium Carbonates, less than 0.5% Potash and are low in Phosphates, Nitrogen and humus.</li>
     <li>This soil has been used for growing a variety of crops for centuries without adding fertilizers and manures.</li>
 </ul></p>
+ 
+
+ {/* 
+  <img src= {richBlackSoil}/>
+ <img src= {blackSoilWater}/>
+ <img src= {crackedSoil}/> 
+ */}
+
 </Layout>

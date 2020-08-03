@@ -1,6 +1,11 @@
 import React from "react"
 import Layout from "../../../components/layout"
 import { Link } from "gatsby"
+/*
+import alluvialSoilPic1 from 
+import alluvialSoilPic2 from 
+*/
+
 export default () => <Layout>
     <Link to={"../soil"}><h2>Soil</h2></Link>
     <p><em>1. Alluvial soils (Entisols)</em></p>
@@ -13,4 +18,9 @@ export default () => <Layout>
     <li>While they are generally low in Nitrogen, the proportion of Potash, Phosphoric Acid and alkalies are adequate.</li>
     <li>They are best suited to irrigation and respond well to canal and well/tube-well irrigation.</li>
 </ul></p>
+{/*
+<img src = {alluvialSoilPic1}/>
+<img src = {alluvialSoilPic2}/>
+*/}
+
 </Layout>

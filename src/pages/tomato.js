@@ -8,6 +8,7 @@ import tomato from "../../static/tomato.png"
 import def from "../../static/nutrition/leaf.jpg"
 import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import tomatoPageCover from "../../static/tomatoPageCover.jpg"
 
 export default () => 
 
@@ -19,8 +20,9 @@ export default () =>
         
         </head>
         <body>
-        
         <h1>Tomato</h1>
+        <img src = {tomatoPageCover}/>
+
             <div>
             <p>The tomato plant is an easy to grow and relatively forgiving plant. They are best grown in warm, sunny conditions, and have little tolerance for frost. <b>Here are some tips to help you start growing your own tomato plants</b></p>
             </div>

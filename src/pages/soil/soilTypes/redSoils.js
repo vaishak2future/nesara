@@ -1,6 +1,11 @@
 import React from "react"
 import Layout from "../../../components/layout"
 import { Link } from "gatsby"
+/*
+import redSoilPic1 from
+import redSoilPic2 from
+*/
+
 export default () => <Layout>
     <Link to={"../soil"}><h2>Soil</h2></Link>
     <p><em>3. Red soils (Alfisols)</em></p>
@@ -14,4 +19,9 @@ export default () => <Layout>
     <li>They are fairly rich in Potassium.</li>
     <li>The red soils are mostly loamy and hence cannot retain water unlike the black soils.</li>
 </ul></p>
+
+{/*
+<img src ={redSoilPic1}/>
+<img src ={redSoilPic2}/>
+*/}
 </Layout>
