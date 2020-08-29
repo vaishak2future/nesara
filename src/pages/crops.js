@@ -24,10 +24,10 @@ export default () => <Layout>
         </div>
             <div>
                 <div>
-                    <a href="tomato">Tomatoes</a>
+                    <a href="/tomato">Tomatoes</a>
                 </div>
                 <div>
-                    <a href="rice">Rice</a>                
+                    <a href="/rice">Rice</a>
                 </div>
             </div>
             
