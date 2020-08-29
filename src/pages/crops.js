@@ -10,6 +10,7 @@ import { css } from "@emotion/core"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import hydroponics from "../../static/hydroponics.jpg"
 import genericPlant from "../../static/genericPlant.jpg"
+import { Link } from "gatsby"
 
 export default () => <Layout>
     <head>
@@ -24,10 +25,10 @@ export default () => <Layout>
         </div>
             <div>
                 <div>
-                    <a href="/tomato">Tomatoes</a>
+                <Link to={"../tomato"}>Tomatoes</Link>
                 </div>
                 <div>
-                    <a href="/rice">Rice</a>
+                <Link to={"../rice"}> Rice</Link>
                 </div>
             </div>
             
